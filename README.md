@@ -1,0 +1,2 @@
+# MediGive
+The project aims to donate medicines which are unused. The unused medicine can be donated for further utilization by a needy person. This application helps the user to donate unused medicine to NGO. Admin will login and can make changes in quantity, add or delete medical supplies. When login with admin id and password will take to database update page and if login is made with member id than it will redirect to MediGive website.
